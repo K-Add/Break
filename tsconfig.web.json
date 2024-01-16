@@ -9,6 +9,7 @@
   "compilerOptions": {
     "composite": true,
     "jsx": "react-jsx",
+    "strict": true, // 启用所用严格的类型检查
     "baseUrl": ".",
     "paths": {
       "@renderer/*": [
